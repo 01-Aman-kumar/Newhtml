@@ -23,14 +23,17 @@
     border: 1px solid black;
 }
 #first{
+    background-color: bisque;
     grid-row-start: 1;
     grid-row-end: 3;
 }
 #third{
+    background-color: red;
     grid-row-start: 2;
     grid-row-end: 3;
 }
 #fourth{
+    background-color: green;
     grid-row-start: 1;
     grid-row-end: 3;
 }
